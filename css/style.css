@@ -10,6 +10,25 @@ body{
     margin: 0;
 	padding: 0;
 }
+.my-card{
+    border-radius: 1.6rem;
+}
+.hot{
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+}
+.badge{
+    left: 85%!important;
+}
+.accordion-item{
+    border: 1px solid #D5E5FB !important;
+    border-radius: 5px;
+}
+.accordion-button:not(.collapsed) {
+    color: #383838;
+    background-color: transparent;
+    box-shadow: none;
+}
 section,
 footer{
     margin-top: 6.25rem;
