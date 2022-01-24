@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    /* .carousel-caption {
+        margin-bottom: 0;
+    } */
+    .carousel-item img{
+        height: 586px;
+    }
+}
