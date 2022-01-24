@@ -63,6 +63,9 @@ body{
 .fa-arrow-right{
     padding-left: .5rem;
 }
+.FAQ img{
+    object-fit: cover;
+}
 section,
 footer{
     margin-top: 6.25rem;

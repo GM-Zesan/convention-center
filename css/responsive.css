@@ -1,8 +1,11 @@
 @media (max-width: 768px) {
-    /* .carousel-caption {
-        margin-bottom: 0;
-    } */
     .carousel-item img{
         height: 586px;
+    }
+}
+@media (max-width: 575px) {
+    .navbar-brand {
+        white-space: normal;
+        max-width: 227px;
     }
 }
